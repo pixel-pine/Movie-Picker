@@ -1,0 +1,107 @@
+{ 
+    "movies": [
+        {
+        "id": "01",
+        "movie": "Star Wars: A New Hope",
+        "genre": "action",
+        "rating": "pg",
+        "length": "medium"
+        },
+
+        {
+        "id": "02",
+        "movie": "Star Wars: The Empire Strikes Back",
+        "genre": "action",
+        "rating": "pg",
+        "length": "medium"
+        },
+
+        {
+        "id": "03",
+        "movie": "Star Wars: Return of the Jedi",
+        "genre": "action",
+        "rating": "pg",
+        "length": "medium"
+        },
+
+        {
+        "id": "04",
+        "movie": "Barbie",
+        "genre": "comedy",
+        "rating": "pg-13",
+        "length": "medium"
+        },
+
+        {
+        "id": "05",
+        "movie": "Dune",
+        "genre": "sci-fi",
+        "rating": "pg-13",
+        "length": "long"
+        },
+
+        {
+        "id": "06",
+        "movie": "Top Gun: Maverick (2022)",
+        "genre": "action",
+        "rating": "pg-13",
+        "length": "medium"
+        },
+
+        {
+        "id": "07",
+        "movie": "The Lord of the Rings: The Fellowship of the Ring",
+        "genre": "fantasy",
+        "rating": "pg-13",
+        "length": "long"
+        },
+
+        {
+        "id": "08",
+        "movie": "The Lord of the Rings: The Two Towers",
+        "genre": "fantasy",
+        "rating": "pg-13",
+        "length": "long"
+        },
+
+        {
+        "id": "09",
+        "movie": "The Lord of the Rings: The Return of the King",
+        "genre": "fantasy",
+        "rating": "pg-13",
+        "length": "long"
+        },
+
+        {
+        "id": "11",
+        "movie": "Freaky Friday",
+        "genre": "comedy",
+        "rating": "pg",
+        "length": "medium"
+        },
+
+        {
+        "id": "12",
+        "movie": "Titanic",
+        "genre": "romance",
+        "rating": "pg-13",
+        "length": "long"
+        },
+
+        {
+        "id": "13",
+        "movie": "Casablanca",
+        "genre": "romance",
+        "rating": "pg",
+        "length": "medium"
+        },
+        
+        {
+        "id": "14",
+        "movie": "Past Lives",
+        "genre": "romance",
+        "rating": "pg-13",
+        "length": "medium"
+        }
+    ]
+}
